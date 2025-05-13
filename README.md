@@ -18,4 +18,4 @@
 * Neural‑network script adapted from course starter code (Assignments 1–2).
 * Sci-kit learn code adapted to help with Random Forest and Logistic regression implementation
 * Everything else done by me.
-* Packages used: PyTorch ≥2.0, scikit‑learn ≥1.4.
+* Packages used: PyTorch, scikit‑learn.
