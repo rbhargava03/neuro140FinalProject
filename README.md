@@ -6,7 +6,7 @@
 
 * Use just four numbers from Space‑Track Two‑Line Elements (period, inclination, apogee, perigee) to tell **payloads** from **debris**.
 * Project for Harvard Neuro 140/240.
-* 
+  
 **Folder overview**
 
 * `spaceobjectid_neuralnetwork_.py` – feed‑forward PyTorch model (adapted from our class Assignments 1 & 2), as well as analysis of model evolution and the confusion matrix.
