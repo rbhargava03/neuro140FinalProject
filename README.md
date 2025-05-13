@@ -11,7 +11,7 @@
 
 * `spaceobjectid_neuralnetwork_.py` – feed‑forward PyTorch model (adapted from our class Assignments 1 & 2), as well as analysis of model evolution and the confusion matrix.
 * `spaceobjectid_lrandrf.py` – logistic‑regression & random‑forest baselines with scikit‑learn, confusion matrices, and overall model comparison graph.
-* `PayloadDebrisData.vcs` – Norad SpaceTrack CSV with payload and debris data downloaded February 25, 2025.
+* `PayloadDebrisData.csv` – Norad SpaceTrack CSV with payload and debris data downloaded February 25, 2025.
 
 **Code credit**
 
