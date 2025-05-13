@@ -1,4 +1,4 @@
-# neuro140FinalProject
+# Neuro140FinalProject- Rajan Bhargava
 
 # Orbital Object Classification (TLE‑Only)
 
