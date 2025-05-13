@@ -5,7 +5,7 @@
 **Goal**
 
 * Use just four numbers from Space‑Track Two‑Line Elements (period, inclination, apogee, perigee) to tell **payloads** from **debris**.
-* Improve my own limited coding experience through exploration of the machine learning models for personal area of interest (aerospace) 
+* expand on my own limited coding experience through exploration of the machine learning models for use in a personal area of interest (aerospace) 
   
 **Folder overview**
 
